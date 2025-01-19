@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the metro bundler, specifically a memory leak or exceeding the memory limit. The error messages were vague and didn't point to a specific line of code or module. The app would crash during development mode or when trying to run on a device. 
